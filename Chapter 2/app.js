@@ -32,3 +32,10 @@
 // var email = "arsalanfayyaz37@gmail.com"
 // alert("My email address is: " + email)
 
+// // Q7) Declare a variable called book & give it the value “A 
+// smarter way to learn JavaScript”. Display the following 
+// message in an alert box:
+
+// var book = "A smarter way to learn JavaScript"
+// alert(book)
+
